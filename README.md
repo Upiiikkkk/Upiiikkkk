@@ -27,7 +27,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/1200x/77/ca/a3/77caa32884d735d439ade45ba37feaf2.jpg"  />
+  <img height="350" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263"  />
 </div>
 
 ###
@@ -49,6 +49,13 @@
   </a>
   <a href="https://wa.me/082293818965" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/31dxxo6mmsewvbigvj4mgqzxwkrm">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/31dxxo6mmsewvbigvj4mgqzxwkrm&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
